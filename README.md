@@ -3,7 +3,7 @@ Este caderno temático foi desenvolvido utilizando o NotebookLM como ferramenta 
 ---
 
 ## Caderno Temático: Agentes de IA no Setor Bancário
-**Acesse o caderno:** [https://notebooklm.google.com/notebook/ad18b35d-b606-42cc-8d3b-5582761f4910]
+**Acesse o caderno:** [Acessar Livro](https://notebooklm.google.com/notebook/ad18b35d-b606-42cc-8d3b-5582761f4910)
 
 ## Contexto
 A evolução da Inteligência Artificial Generativa deu origem a uma nova categoria de sistemas inteligentes: os **Agentes de IA (AI Agents)**. Diferentemente dos chatbots tradicionais, esses agentes são capazes de interpretar objetivos, planejar ações, utilizar ferramentas externas, acessar bases de conhecimento e executar tarefas de forma autônoma.
@@ -35,7 +35,7 @@ O 1° bloco reúne materiais voltados aos fundamentos e à arquitetura dos agent
 
 1. **Hands-On Large Language Models**
    - **Tipo:** Livro (PDF) 
-   - **Link:** [Acessar Livro](https://www.oreilly.com/library/view/hands-on-large-language/9781098150959/)
+   - **Link:** [Acessar Livro](https://drive.google.com/file/d/1ROBDsSJUqKrEu4sul9io7JRrrjHyuNRu/view?usp=sharing)
    - **Descrição:** Apresenta os fundamentos dos LLMs, embeddings, RAG e IA Generativa, fornecendo a base técnica para compreender como agentes de IA são construídos.
 
 2. **LangChain – Agents**
