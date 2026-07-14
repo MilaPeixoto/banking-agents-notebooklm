@@ -1,6 +1,6 @@
 # banking-agents-notebooklm
-Este caderno temático foi desenvolvido utilizando o NotebookLM como ferramenta de aprendizagem ativa, reunindo uma curadoria de fontes especializadas para estudar os fundamentos, a arquitetura e as aplicações dos agentes de IA no contexto bancário. Projeto desenvolvido como parte do Bootcamp Bradesco – GenAI, Dados &amp; Cyber, promovido pela DIO. 
----
+Este caderno temático foi desenvolvido utilizando o Google NotebookLM como ferramenta de aprendizagem ativa, reunindo uma curadoria de fontes especializadas para estudar os fundamentos, a arquitetura e as aplicações dos agentes de IA no contexto bancário. Projeto desenvolvido como parte do Bootcamp Bradesco – GenAI, Dados & Cyber, promovido pela DIO.
+
 
 ## Caderno Temático: Agentes de IA no Setor Bancário
 **Acesse o caderno:** [Acessar Livro](https://notebooklm.google.com/notebook/ad18b35d-b606-42cc-8d3b-5582761f4910)
