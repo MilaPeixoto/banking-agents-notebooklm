@@ -118,7 +118,7 @@ Como resultado desse processo iterativo, foi possível observar que a qualidade 
 ---
 
 ## Analisando as respostas do Notebook LM e refinamento final de prompts
-
+---
 ### Nível 1 - Exploração
 ### Detalhamento: Nível 1 - Exploração
 
@@ -206,6 +206,8 @@ O funcionamento da maioria dos agentes baseia-se no ciclo ReAct (Reasoning and A
 * **Confiabilidade e Controle:** A necessidade de Guardrails (trilhos de segurança) para evitar opiniões políticas ou ações inadequadas, e o conceito de Steering (intervenção humana) em decisões críticas como aprovação de empréstimos.
 * **Complexidade de Latência:** Múltiplas chamadas ao modelo e processamento de memórias longas podem tornar a execução lenta e cara em termos de tokens.
 * **Segurança:** Proteção de dados privados e detecção de informações de identificação pessoal (PII) durante o loop de execução.
+
+---
 
 ### Nível 2 - Comparação
 **Prompt Simples:** Como um agente difere de um chatbot tradicional?  
@@ -304,6 +306,8 @@ Abaixo está a comparação detalhada baseada nas fontes:
 **Síntese Final**
 Um chatbot tradicional atua primariamente como um canal de comunicação que simplifica o acesso à informação. Em contraste, um agente de IA é uma evolução sistêmica definida pela fórmula `Agente = Modelo + Harness (Suporte)`. O "harness" fornece ao modelo as ferramentas e a memória necessárias para que ele não apenas "fale", mas aja sobre o ambiente bancário, integrando-se profundamente aos processos de negócio e sistemas internos para realizar tarefas de ponta a ponta de forma semi-autônoma. O agente é, portanto, um solucionador de problemas geral que utiliza o raciocínio passo a passo para navegar em cenários de alta complexidade onde chatbots rígidos falhariam.
 
+---
+
 ### Nível 3 - Funcionamento
 
 **Prompt Simples:** Como um agente toma decisões?  
@@ -385,6 +389,7 @@ Abaixo, detalho o fluxo completo desde a solicitação do cliente até a respost
 * **Geração Grounded:** A resposta final é uma "Geração Fundamentada", frequentemente incluindo citações das fontes consultadas via RAG, o que reduz drasticamente o risco de erros factuais.
 
 Este processo transforma o banco em uma instituição proativa, onde agentes de experiência (interação com humanos) e agentes de domínio (automação de sistemas internos) trabalham em harmonia para realizar tarefas complexas em minutos.
+
 ---
 
 ## Miniguia de Estudo
