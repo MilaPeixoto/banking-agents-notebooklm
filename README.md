@@ -3,7 +3,7 @@ Este caderno temático foi desenvolvido utilizando o Google NotebookLM como ferr
 
 
 ## Caderno Temático: Agentes de IA no Setor Bancário
-**Acesse o caderno:** [Acessar Livro](https://notebooklm.google.com/notebook/ad18b35d-b606-42cc-8d3b-5582761f4910)
+**Acesse o caderno:** [Link NotebookLM](https://notebooklm.google.com/notebook/ad18b35d-b606-42cc-8d3b-5582761f4910)
 
 ## Contexto
 A evolução da Inteligência Artificial Generativa deu origem a uma nova categoria de sistemas inteligentes: os **Agentes de IA (AI Agents)**. Diferentemente dos chatbots tradicionais, esses agentes são capazes de interpretar objetivos, planejar ações, utilizar ferramentas externas, acessar bases de conhecimento e executar tarefas de forma autônoma.
