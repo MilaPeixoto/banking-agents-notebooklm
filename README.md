@@ -99,7 +99,7 @@ Os testes demonstraram que perguntas abertas e genéricas tendem a gerar respost
 
 À medida que os prompts passaram a especificar exatamente quais elementos deveriam ser contemplados, como arquitetura, fluxo de execução, memória, RAG, ferramentas, mecanismos de segurança, exemplos de aplicação e organização em tópicos ou tabelas comparativas, as respostas tornaram-se significativamente mais completas, técnicas e estruturadas.
 
-Outro aprendizado importante foi que o NotebookLM apresenta melhor desempenho quando recebe orientações explícitas sobre **como organizar a resposta**. Solicitações como "organize em tópicos", "apresente uma tabela comparativa", "descreva o fluxo completo da arquitetura", "utilize exclusivamente as fontes do notebook" e "finalize com um exemplo aplicado ao setor bancário" contribuíram para aumentar a consistência, reduzir ambiguidades e incentivar a síntese de informações provenientes de diferentes documentos.
+Outro aprendizado importante foi que o NotebookLM apresenta melhor desempenho quando recebe orientações explícitas sobre **como organizar a resposta**. Solicitações como "organize em tópicos", "apresente uma tabela comparativa", "descreva o fluxo completo da arquitetura" e "finalize com um exemplo aplicado ao setor bancário" contribuíram para aumentar a consistência, reduzir ambiguidades e incentivar a síntese de informações provenientes de diferentes documentos.
 
 ### Troubleshooting ("Cicatrizes")
 Ao longo do processo, foram identificadas algumas dificuldades recorrentes para extrair respostas mais completas do NotebookLM:
